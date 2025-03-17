@@ -59,7 +59,7 @@
 ---
 
 ## 사용 기술
-- **Unreal Engine 5.4
+- **Unreal Engine 5.4**
 - **Gameplay Ability System (GAS)**
 - **C++ & Blueprints**
   
